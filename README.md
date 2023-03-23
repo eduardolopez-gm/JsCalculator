@@ -13,7 +13,7 @@ Go to the project directory
   cd JsCalculator 
 ```
 Run 'index.html' with any browser that you have install and you will have to see this 
-![](src="files/calculator.png")
+![](src="/files/calculator.png")
 
 
 ## Authors
