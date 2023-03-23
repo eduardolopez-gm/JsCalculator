@@ -13,9 +13,9 @@ Go to the project directory
   cd JsCalculator 
 ```
 Run 'index.html' with any browser that you have install and you will have to see this 
-![](src="/files/calculator.png")
+![](/files/calculator.png)
 
 
 ## Authors
-- [@oeduardolopez-gm](https://www.github.com/eduardolopez-gm)
+- [@eduardolopez-gm](https://www.github.com/eduardolopez-gm)
 
